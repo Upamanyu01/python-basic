@@ -1,0 +1,6 @@
+a=input("Enter any number")
+b=input(str("Enter any string"))
+c=input(str("enter any floating value"))
+print("value of a=",a)
+print("value of b=",b)
+print("value of c=",c)
